@@ -1,0 +1,2 @@
+# learnJavaScript
+javascript first steps
